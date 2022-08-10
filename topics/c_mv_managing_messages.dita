@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_mv_managing_messages"> 
   <title>Messaging Overview</title> 
-  <shortdesc>Receiving and sending messages and notifications. 
-  </shortdesc> 
+  <shortdesc>Receiving and sending messages and notifications. </shortdesc> 
 	<prolog>
 		<metadata>
 			<prodinfo>
@@ -19,14 +18,15 @@
 	</prolog>
 	<conbody> 
 	 <section> 
-		<title>Introduction</title> 
+		<title id="title_nxq_qcg_m5b">Introduction</title> 
 		
 	 	<p>The message manager in <term conkeyref="r_productname_variables/ph_enduser"/>
 				allows you to do the following: <ul>
 					<li>Send messages.</li>
 					<li>Receive messages and notifications.</li>
 					<li>Reply to messages.</li>
-					<li>Forward messages to others.</li>
+					<li>Forward messages to others.<image href="t_mv_generating_data_views.dita"
+							id="image_yrr_lcg_m5b"/></li>
 					<li>Save messages for later reference.</li>
 					<li>Delete unwanted messages.</li>
 					<li>Acknowledge notifications.</li>
