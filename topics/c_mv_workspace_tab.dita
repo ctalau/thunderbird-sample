@@ -23,15 +23,25 @@
     <li>Cluster response time.</li>
     <li>Cluster requests.</li>
     <li>Active host servers.</li>
-    <li>Cluster workload.</li>
+    <li>Cluster
+     <?oxy_comment_start author="Cristian Talau" timestamp="20220810T055919+0000" comment="Workload is a bit too technical."?>workload<?oxy_comment_end?>.</li>
    </ul>
   </p>
   <fig conkeyref="r_image_warehouse/fig_enw_2lh_mr" id="fig_a5k_zfm_mr"/>
   
   
   
-  <p>Content is automatically updated in these data views when events occur related to the project you are
-   monitoring. This provides you with real-time information that is crucial for monitoring your project's use of cluster resources as effectively and efficiently as possible.</p>
+  <p>Content is automatically updated in these data views when events occur related to the project
+   you are monitoring. This provides you with real-time information that is crucial for monitoring
+   your project's use of cluster resources as effectively and efficiently as possible.<ul
+    id="ul_zzk_mc2_m5b">
+    <li dir="ltr">
+     <p dir="ltr">Set the programming language - enables syntax highlight</p>
+    </li>
+    <li dir="ltr">
+     <p dir="ltr">Paste as text</p>
+    </li>
+   </ul></p>
    
   <table frame="topbot" rowsep="1">
    <tgroup cols="2" rowsep="1">
