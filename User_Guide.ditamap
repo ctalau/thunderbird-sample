@@ -41,6 +41,13 @@
         <topicref href="topics/r_mv_quickref_dataview.dita"/>
         <topicref href="topics/r_mv_quickref_health_indicators.dita"/>
     </topichead>
+    <keydef keys="product">
+        <topicmeta>
+            <keywords>
+                <keyword>StormCluster</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
     
     <reltable title="Reltable">
         <relheader>
